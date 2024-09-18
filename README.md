@@ -18,15 +18,18 @@ Documentação e scripts do jogo
 <p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais quente e saturada</p>
 
 <h2>Fantasmas:</h2>
+![fantasma1](https://github.com/user-attachments/assets/1f96a05e-5ed1-433b-b5ff-924483830a20)
+
 
 <ul>
   <li><p>A cor da maioria dos fantasmas é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, podem ainda sendo bem distinta dele e do cenário. Depois, na última rua com inimigos, eles estão maiores e mais rápidos que nunca; assim, sua aparência muda, sendo uma cor cinza. No labirinto, que é uma área muito iluminada, os fantasmas possuem uma textura simples e de cor branca, para aparecerem melhor. Além disso, sua coloração simples reflete que os fantasmas do labirinto são bem mais fáceis de desviar comparado aos outros. Dentro da catedral, eles possuem chifres e <strong>(cor)</strong>, dando uma sensação de maior desafio e finalização.</p></li>
   <li><p>Localização: os fantasmas estão separados em "grupos" que ocupam certa área, dentro desse grupo, eles aumentam de velocidade conforme o jogador avança, e a dificuldade dos fantasmas de cada "grupo" também aumenta, exceto no labirinto, já que o foco é no labirinto em si, não nos inimigos.</p></li>
-  <li><p>A dificuldade do jogo aumente gradualmente(exceto no labirinto) e ela é atingida aumentando a quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral,<strong>alguma coisa</strong>.</p></li>
+  <li><p>A dificuldade do jogo aumenta gradualmente(exceto no labirinto) isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
 </ul>
 
 <h2>Cenário:</h2>
-  <p>No caminho até a catedral, o cenário é majoritariamente escuro, fazendo os fantasmas se destacarem. Alguns prédios mais coloridos ofercem variação. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras e, dentro do labirinto, os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). O verde claro das plantas</p>
+  <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferceem variação. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas</p>
+  <p>Dentro da catedral, o cinza é a cor predominante, mas desta vez, é uma cor bem clara</p>
 <h2>Cenas:</h2>
   <p>Separamos as cenas entre a cidade e o interior da catedral. A cidade inteira se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p>
 
