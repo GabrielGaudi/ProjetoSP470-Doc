@@ -53,12 +53,13 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 <br>
   <li><h4>Cenário</h4></li>
   <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, com todas as outras cores pouco iluminadas, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferecem variação, deixando o visual menos monótono. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas, que é relacionada à perseverança, motivando Aruã a continuar sua jornada nos dois pontos principais: o início e perto do final e a segurança das áres onde está presente.</p>
-  <p>Localizada no coração de São Paulo, ela é um dos marcos e o marco final onde Aruã irá finalizar sua missão. Dentro dela, o cinza é a cor predominante, mas desta vez, é uma cor bem clara. Isso diferencia ela de todas as outras regiões, já que a área não é baseada em nada real, porém ainda usa uma cor que encaixa como resto da paleta.</p>
+  <p>Localizada no coração de São Paulo, a Catedral da Sé é um dos principais pontos da cidade e o marco final da jornada, onde Aruã irá finalizar sua missão. Dentro dela, o cinza é a cor predominante, mas desta vez, é uma cor bem clara. Isso diferencia ela de todas as outras regiões, já que a área não é baseada em nada real, porém ainda usa uma cor que encaixa como resto da paleta.</p>
 </ol>
 <br>
 <h2>Cenas:</h2>
   <p>Separamos as cenas entre a cidade e o interior da catedral. A cidade inteira, se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p>
 
 <h2>Jogos inspirados:</h2>
-
+<p>Ao decidir que os fantasmas seriam os principais inimigos, pensamos no jogo "Spooky's Jumpscare Mansion", onde, apesar de não haverem muitos fantasmas, a personagem principal e boa parte do cenário eram ótimos exemplos do design simplificado que buscávamos.</p>
+<p>Os cenários de "Little Nightmares" e "Resident Evil" também foram considerados durante o desenvolvimento, também por serem mais simples, porém ao mesmo tempo construir uma atmosfera de terror.</p>
 <h2>Scripts</h2>
