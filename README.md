@@ -254,3 +254,140 @@ public class Move : MonoBehaviour
 - Desabilita o CharacterController para evitar problemas de colisão.
 - Teletransporta o personagem para a posição (0, 0, 0).
 - Reabilita o CharacterController.
+
+## Explicação das Contas
+
+### Movimento e Velocidade
+
+- **`moveDirection * Time.deltaTime * velocidade`**: 
+  - **`moveDirection`**: Direção para onde o personagem deve se mover. Calculada com base na orientação da câmera e nas entradas do jogador.
+  - **`Time.deltaTime`**: Tempo desde o último frame. Garante que o movimento seja suave e consistente, independentemente da taxa de quadros.
+  - **`velocidade`**: Velocidade com que o personagem se move. Ajusta a distância percorrida por segundo.
+
+  **Como funciona**: O movimento é ajustado pela `velocidade` e o tempo desde o último frame, garantindo uma movimentação uniforme e suave.
+
+### Pulo e Gravidade
+
+- **`jump.y = jumpForce`**: 
+  - **`jump.y`**: Velocidade vertical do pulo.
+  - **`jumpForce`**: Força aplicada ao pulo, determinando a altura do pulo.
+
+- **`jump.y += gravity * Time.deltaTime`**:
+  - **`gravity`**: Valor da gravidade que puxa o personagem para baixo.
+  - **`Time.deltaTime`**: Garante que a aplicação da gravidade seja consistente ao longo do tempo.
+
+  **Como funciona**: Quando o personagem está no chão, a velocidade de pulo é definida pela `jumpForce`. No ar, a gravidade é aplicada para simular a queda, ajustada pelo tempo decorrido desde o último frame.
+
+## Explicação das Funções e Métodos
+
+### `Input.GetAxis`
+
+- **`Input.GetAxis("Horizontal")` e `Input.GetAxis("Vertical")`**:
+  - Retornam valores entre -1 e 1 baseados na entrada horizontal e vertical do jogador (teclas de seta ou joystick).
+
+  **Como funciona**: Obtém as entradas do jogador para movimentar o personagem, proporcionando um controle suave e contínuo.
+
+### `GetComponent<T>`
+
+- **`GetComponent<CharacterController>()` e `GetComponent<Animator>()`**:
+  - Obtém o componente do tipo especificado (`CharacterController` ou `Animator`) no GameObject.
+
+  **Como funciona**: Permite que o script interaja com outros componentes no GameObject, controlando o movimento e as animações do personagem.
+
+### `character.Move(Vector3)`
+
+- **`character.Move(moveDirection * Time.deltaTime * velocidade)`** e **`character.Move(jump * Time.deltaTime)`**:
+  - Move o personagem na direção especificada pelo vetor `Vector3`.
+
+  **Como funciona**: Aplica o movimento ao personagem com base nas entradas do jogador e na física do jogo, como gravidade e pulo.
+
+### `animator.SetBool`
+
+- **`animator.SetBool("Andando", true)`**:
+  - Define um parâmetro booleano no `Animator`, controlando as animações.
+
+  **Como funciona**: Ajusta o estado da animação do personagem de acordo com as ações do jogador (andar, correr, pular).
+
+### `Input.GetKey`
+
+- **`Input.GetKey(KeyCode.Space)`**:
+  - Retorna `true` se a tecla especificada (neste caso, a tecla de espaço) estiver pressionada.
+
+  **Como funciona**: Verifica se o jogador pressionou a tecla para executar uma ação, como pular.
+
+### `character.isGrounded`
+
+- **`character.isGrounded`**:
+  - Retorna `true` se o personagem estiver em contato com o chão.
+
+  **Como funciona**: Verifica se o personagem está no chão, necessário para determinar se o pulo pode ser iniciado ou se a gravidade deve ser aplicada.
+
+### `ForaDoMapa`
+
+- **Método para teletransportar o personagem**:
+  - Desativa o `CharacterController`, teletransporta o personagem para a posição `(0, 0, 0)`, e reativa o `CharacterController`.
+
+  **Como funciona**: Teletransporta o personagem de volta ao ponto inicial se ele cair fora do mapa, evitando que o personagem se perca ou fique preso fora do cenário.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+
+  # Script de Câmera
+
+Este script controla a câmera para seguir o jogador. Ele ajusta a posição e a rotação da câmera com base na posição do jogador e na entrada do mouse.
+
+## Código
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraFollow : MonoBehaviour
+{
+    // Referência ao transform do jogador
+    public Transform player;
+
+    // Distância da câmera ao jogador
+    public float distance = 10.0f;  // Define a distância da câmera ao jogador
+    public float height = 5.0f;     // Define a altura da câmera em relação ao jogador
+
+    // Sensibilidade da rotação da câmera com o mouse
+    public float mouseSensitivity = 100.0f;  // Controla a sensibilidade da rotação da câmera com o mouse
+
+    // Limite de rotação vertical
+    public float minYAngle = -20f;  // Limita a rotação vertical mínima
+    public float maxYAngle = 60f;   // Limita a rotação vertical máxima
+
+    private float currentX = 0f;  // Armazena a rotação atual no eixo X
+    private float currentY = 0f;  // Armazena a rotação atual no eixo Y
+
+    void Start()
+    {
+        // Inicializa a posição do mouse (opcional)
+        Cursor.lockState = CursorLockMode.Locked;  // Tranca o cursor no centro da tela
+    }
+
+    void Update()
+    {
+        // Atualiza os valores de rotação com base no movimento do mouse
+        currentX += Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
+        currentY -= Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+
+        // Limita a rotação vertical para não ultrapassar os limites definidos
+        currentY = Mathf.Clamp(currentY, minYAngle, maxYAngle);
+    }
+
+    void LateUpdate()
+    {
+        // Cria uma posição de offset com base na rotação calculada pelo mouse
+        Vector3 direction = new Vector3(0, height, -distance);  // Define a posição da câmera com base na altura e distância
+        Quaternion rotation = Quaternion.Euler(currentY, currentX, 0);  // Cria uma rotação baseada nas entradas do mouse
+
+        // Aplica a posição e rotação ao transform da câmera
+        transform.position = player.position + rotation * direction;  // Calcula a posição final da câmera
+        transform.LookAt(player.position);  // Faz a câmera olhar para o jogador
+    }
+}
+```
+## Explicação do Código
