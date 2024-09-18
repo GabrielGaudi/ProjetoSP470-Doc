@@ -15,6 +15,7 @@ Documentação e scripts do jogo
 <h2>Personagens:</h2>
   
 <h4>Aruã:</h4>
+
 ![Captura de tela 2024-09-17 111410](https://github.com/user-attachments/assets/13294dd4-49eb-4c1c-b375-3f364720c3bb)
 <p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais quente e saturado</p>
 
@@ -26,6 +27,8 @@ Documentação e scripts do jogo
   <li><p>Localização: os fantasmas estão separados em "grupos" que ocupam certa área, dentro desse grupo, eles aumentam de velocidade conforme o jogador avança, e a dificuldade dos fantasmas de cada "grupo" também aumenta, exceto no labirinto, já que o foco é no labirinto em si, não nos inimigos.</p></li>
   <li><p>A dificuldade do jogo aumenta gradualmente(exceto no labirinto) isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
 </ul>
+
+<h5
 
 <h2>Cenário:</h2>
   <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, com todas as outras cores pouco iluminadas, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferceem variação. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas, que é relacionada à perseverança, motivando Aruã a continuar sua jornada nos dois pontos principais: o início e perto do final e a segurança das áres onde está presente.</p>
