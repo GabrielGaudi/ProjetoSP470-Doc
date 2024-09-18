@@ -28,7 +28,8 @@ Documentação e scripts do jogo
   <li><p>A dificuldade do jogo aumenta gradualmente(exceto no labirinto) isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
 </ul>
 
-<h5
+<h5>Tarisila do Amaral e Monteiro Lobato</h5>
+<p>Os dois têm uma cor azul, representando segurança e os diferenciando muito do laranja dos fantasmas hostis.</p>
 
 <h2>Cenário:</h2>
   <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, com todas as outras cores pouco iluminadas, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferceem variação. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas, que é relacionada à perseverança, motivando Aruã a continuar sua jornada nos dois pontos principais: o início e perto do final e a segurança das áres onde está presente.</p>
