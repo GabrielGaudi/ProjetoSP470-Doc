@@ -1,14 +1,9 @@
 # ProjetoSP470-Doc
 Documentação e scripts do jogo
 
-<h2>Áudio</h2>
-<ul>
-  <li><h4>Música</h4></li>
-  <ul>
-  <li><p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. </p></li>
-  </ul>
-  <li><h4>Efeitos Sonoros</h4></li>
-</ul>
+  <h2>Música</h2>
+  <p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. </p></li>
+ 
 
 <h2>História:</h2>
 <p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas. Então pesquisamos pontos marcantes da cidade que eram séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
