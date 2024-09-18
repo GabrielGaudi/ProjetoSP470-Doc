@@ -15,7 +15,7 @@ Documentação e scripts do jogo
 <h2>Personagem:</h2>
 
 ![Captura de tela 2024-09-17 111410](https://github.com/user-attachments/assets/13294dd4-49eb-4c1c-b375-3f364720c3bb)
-<p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois sua cor é mais quente e saturada</p>
+<p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais quente e saturada</p>
 
 <h2>Fantasmas:</h2>
 
@@ -26,7 +26,7 @@ Documentação e scripts do jogo
 </ul>
 
 <h2>Cenário:</h2>
-  <p>O cenário é majoritariamente escuro, fazendo os fantasmas(exceto os escuros), se destacarem. Os prédios mais claros se diferenciam e oferecem algo a mais. As plantas estão focadas em dois pontos extremos do jogo, a rua no início, onde o carro de Aruã quebra, e no entorno da catedral, ambos sendo áreas mais seguras(neste caso, a parte de fora do labirinto).</p>
+  <p>No caminho até a catedral, o cenário é majoritariamente escuro, fazendo os fantasmas se destacarem. Alguns prédios mais coloridos ofercem variação. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras e, dentro do labirinto, os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). O verde claro das plantas</p>
 <h2>Cenas:</h2>
   <p>Separamos as cenas entre a cidade e o interior da catedral. A cidade inteira se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p>
 
