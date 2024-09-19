@@ -3,15 +3,20 @@ Documentação e scripts do jogo
 <br>
 Link do projeto https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3R/view?usp=drive_link
 <br>
-Vídeo Gameplay: https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4k1/view?usp=drive_link
+Vídeo Gameplay: https://drive.google.com/file/d/1lTuX6Use5SgPLZF9ild5D9OW-S9L7M_X/view?usp=drive_link
+<br>
+Vídeo Zipado: https://drive.google.com/file/d/1ywZtO90YlUF89x-_v-Qa4OpG1D4JFz5I/view?usp=drive_link
+
+<h2>Chegando na ideia do jogo:</h2>
+<p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas, seres do passado que continuam existindo até hoje. Assim, mostraríamos a história rica da cidade, em um cenário moderno. Para decidir o cenário, pesquisamos pontos marcantes da cidade que eram importantes séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista, pois são lugares bem conhecidos e próximos. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
+<br>
+<p>Para os fantasmas, encontramos assets simples, que combinavam com o estilo simples que queriamos e já possuia uma animação, usando estilos diferentes para NPCs e inimigos. Para os NPCs, escolhemos duas figuras muito conhecidas e influentes, que viveram durante o mesmo período e até hoje são considerados extremamente importantes na identidade histórica do Brasil: Monteiro Lobato, pelas suas obras escrita e Tarsila do Amaral por sua obras visuais.</p>
 
   <h2>Música</h2>
   <p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. E como na música fala sobre seres que não eram humanos, transparentes e que desceram do céu decidimos fazer os fantasmas como inimigo, pois é o que mais chega perto da descrição dele. O cenário todo apagado faz referência a música quando fala que teve um "blackout" na Paulista, ao ponto de nem poder ver o chão. </p></li>
  
 
 <h2>História:</h2>
-<p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas, seres do passado que continuam existindo até hoje. Assim, mostraríamos a história rica da cidade, em um cenário moderno. Para decidir o cenário, pesquisamos pontos marcantes da cidade que eram importantes séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista, pois são lugares bem conhecidos e próximos. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
-
 <p>Aruã, um xamã caçador de fantasmas conhecido por suas habilidades únicas, foi chamado às pressas pelos diretores da Catedral da Sé. O local, um dos mais icônicos de São Paulo, havia se tornado palco de estranhos eventos sobrenaturais, e somente alguém com a expertise de Aruã poderia resolver a situação.</p>
 <p>Ele estava em direção à Catedral, até que seu carro quebra na Avenida Paulista. No entanto, ao chegar na Avenida Paulista, percebeu que havia cometido um erro grave: ele havia esquecido seus talismãs, aqueles que normalmente usava para capturar e repelir espíritos malignos. A Avenida Paulista, que já era conhecida por sua energia vibrante, agora parecia estar imersa em uma aura pesada, quase sufocante. Espíritos malignos flutuavam pela rua, Aruã, agora mais cauteloso, começou a desviar deles, percebendo que sem seus talismãs, qualquer confronto direto poderia ser fatal.</p>
   <p>Ao se aproximar da catedral, outro desafio surge, um labirinto com mais fantasmas. Dentro desse labirinto, surge o espírito de Tarsila do Amaral, uma das maiores artistas que o Brasil já produziu. Diferente dos outros espíritos, Tarsila emanava uma luz suave e acolhedora. “Aruã”, ela chamou, sua voz era ao mesmo tempo distante e familiar, ela menciona uma dívida que tem com o pai de Aruã e, por isso, o ajudará. Tarsila lhe entregou uma máscara que ela mesma havia criado. Aruã aceitou o presente, agradecendo com um leve aceno de cabeça, então, ela o guia para o próximo passo da jornada, encontrar Monteiro Lobato na catedral.</p>
