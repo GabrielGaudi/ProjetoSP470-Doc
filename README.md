@@ -29,14 +29,16 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 <li><h4>Fantasmas:</h4></li>
 
 ![fantasma1](https://github.com/user-attachments/assets/e29f140a-19d2-4817-95c1-d9e2d5810606)
+![fantasma2](https://github.com/user-attachments/assets/1fe58a8b-87c8-46b2-b9e9-17667adcbb09)
+
 <ul>
-  <li><p>A cor da maioria dos fantasmas é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, porém ainda sendo bem distinta dele e do cenário. Depois, na última rua com inimigos, eles estão maiores e mais rápidos que nunca; assim, sua aparência muda, sendo uma cor cinza. No labirinto, que é uma área muito iluminada, os fantasmas possuem uma textura simples e de cor branca, para aparecerem melhor. Além disso, sua coloração simples reflete que os fantasmas do labirinto são bem mais fáceis de desviar comparado aos outros. Dentro da catedral, eles possuem chifres, dando uma sensação de maior desafio e finalização e, por serem maiores, compartilham a cor cinza com os fantasmas maiores.</p></li>
+  <li><p>A cor dos fantasmas inimigos é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, porém ainda sendo bem distinta dele e do cenário. Dentro da catedral, eles possuem chifres, dando uma sensação de maior desafio e finalização e, por serem maiores, têm uma cor diferente, o cinza.</p></li>
   <li><p>Localização: os fantasmas estão separados em "grupos" que ocupam certa área, dentro desse grupo, eles aumentam de velocidade conforme o jogador avança, e a dificuldade dos fantasmas de cada "grupo" também aumenta, exceto no labirinto, já que o foco é no labirinto em si, não nos inimigos.</p></li>
   <li><p>A dificuldade do jogo aumenta gradualmente(exceto no labirinto) isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
 </ul>
 
 <li><h4>Tarisila do Amaral e Monteiro Lobato</h4></li>
-<p>Os dois têm uma cor azul, representando segurança e os diferenciando muito do laranja dos fantasmas hostis.</p>
+<p>Os dois têm uma cor branca, representando segurança e os diferenciando muito do laranja dos fantasmas hostis.</p>
 </ol>
 <br>
 <h2>Mundo do Jogo</h2>
@@ -57,6 +59,41 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 <h2>Jogos inspirados:</h2>
 <p>Ao decidir que os fantasmas seriam os principais inimigos, pensamos no jogo "Spooky's Jumpscare Mansion", onde, apesar de não haverem muitos fantasmas, a personagem principal e boa parte do cenário eram ótimos exemplos do design simplificado que buscávamos.</p>
 <p>Os cenários de "Little Nightmares" e "Resident Evil" também foram considerados durante o desenvolvimento, também por serem mais simples, porém ao mesmo tempo construir uma atmosfera de terror.</p>
+
+<h2>Elementos do Unity</h2>
+<ol>
+<li><h4>GameObjects</h4></li>
+  <ul>
+    <li><p>Cubos: foram utilizados para fazer paredes invisíveis;</p></li>
+    <li><p>TextMesh: utilizado para os diálogos com os fantasmas, tela inicial e tela de créditos;</p></li> 
+    <li><p>Luzes para os postes, nas construções, nos fantasmas, no labirinto, nos candelabros da catedral e na lanterna de Aruã;</p></li>
+    <li><p>Geradores de partículas, para criar a névoa pelo mapa todo e na cena final;</p></li>
+    <li><p>Um objeto de áudio para a música;</p></li>
+    <li><p>Câmeras: uma que segue o jogador e outras duas para as telas de início e fim; e botões para iniciar e sair do jogo.</p></li>
+  </ul>
+  <li><h4>Assets da Store:</h4></li>
+  <ul>
+    
+<li><bold>Aruã: </bold>[https://assetstore.unity.com/packages/3d/characters/toon-killers-survivors-12353]</li>
+    <li><bold>Fantasmas: </bold>[https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926]</li>
+    <li><bold>Cenários:</bold> [https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972]</li>
+    <li>[https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899]</li>
+    <li>[https://assetstore.unity.com/packages/3d/props/exterior/low-poly-brick-houses-131899]</li>
+    <li>[https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772]</li>
+    <li>[https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240]</li>
+    <li>[https://assetstore.unity.com/packages/3d/props/furniture/alchemy-lab-props-41758]</li>
+    <li>[https://assetstore.unity.com/packages/2d/textures-materials/ultimate-material-library-253722]</li>
+    <li>[https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240]</li>
+    <li><bold>Céu</bold>[https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014]</li>
+  </ul>
+
+  <li>Assets no Unity:</li>
+  <ul>
+    <li>4 cenas, uma da cidade, uma dentro da catedral, uma para a tela de início e outra para a tela final</li>
+    <li>Assets da Store mencionados acima</li>
+    <li>Scripts do C#, listados e explicados abaixo</li>
+  </ul>
+</ol>
 <h2>Scripts</h2>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   # Script do Personagem
