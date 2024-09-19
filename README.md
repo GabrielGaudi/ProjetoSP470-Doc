@@ -10,7 +10,7 @@ Vídeo Gameplay: https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4
  
 
 <h2>História:</h2>
-<p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas. Então pesquisamos pontos marcantes da cidade que eram séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
+<p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas, seres do passado que continuam existindo até hoje. Assim, mostraríamos a história rica da cidade, em um cenário moderno. Para decidir o cenário, pesquisamos pontos marcantes da cidade que eram importantes séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista, pois são lugares bem conhecidos e próximos. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
 
 <p>Aruã, um xamã caçador de fantasmas conhecido por suas habilidades únicas, foi chamado às pressas pelos diretores da Catedral da Sé. O local, um dos mais icônicos de São Paulo, havia se tornado palco de estranhos eventos sobrenaturais, e somente alguém com a expertise de Aruã poderia resolver a situação.</p>
 <p>Ele estava em direção à Catedral, até que seu carro quebra na Avenida Paulista. No entanto, ao chegar na Avenida Paulista, percebeu que havia cometido um erro grave: ele havia esquecido seus talismãs, aqueles que normalmente usava para capturar e repelir espíritos malignos. A Avenida Paulista, que já era conhecida por sua energia vibrante, agora parecia estar imersa em uma aura pesada, quase sufocante. Espíritos malignos flutuavam pela rua, Aruã, agora mais cauteloso, começou a desviar deles, percebendo que sem seus talismãs, qualquer confronto direto poderia ser fatal.</p>
@@ -26,10 +26,10 @@ Aruã é um xamã experiente, conhecido popularmente como um caçador de fantasm
 Aruã veste roupas simples, funcionais, geralmente um casaco vermelho vinho, uma calça de couro preta e uma camisa preta, utilizando também botas de couro. Ele carrega consigo uma lanterna.
 Aruã nasceu em uma família de classe média em São Paulo, Aruã sempre se sentiu deslocado na vida urbana. Aos 18 anos, durante uma viagem para o interior da Amazônia, ele se envolveu em uma situação perigosa e foi salvo por uma comunidade indígena. Lá, conheceu um xamã sábio que percebeu o potencial espiritual de Aruã. Fascinado e intrigado pelo conhecimento ancestral, ele resolveu ficar e aprender as artes xamânicas.
 Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usar o que aprendeu para ajudar as pessoas a encontrar a paz, tanto no mundo espiritual quanto no mundo físico.<br>
-Vermelho do cabelo de Aruã `#d86820`
+Vermelho do cabelo de Aruã `rgb(216,104,32)`
 
 ![Captura de tela 2024-09-17 111410](https://github.com/user-attachments/assets/13294dd4-49eb-4c1c-b375-3f364720c3bb)
-<p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais quente e saturado</p>
+<p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais forte e saturado.</p>
 
 <li><h4>Fantasmas:</h4></li>
 
@@ -77,12 +77,17 @@ Monteiro Lobato na catedral
   <li>
     <p>Cena 1: Menu do jogo</p>
     <p>O menu do jogo tem a mesma atmosfera e cores utilizadas no resto do jogo. O foco é no título do jogo, encompassando Aruã, que está logo abaixo. No fundo, um céu escuro, como o resto do jogo mostra a aventura perigosa que começará, porém uma lua brilhando no centro comunica que ainda há esperança. Os botões para iniciar estão à frente da lanterna, dando espaço para Aruã no centro, mas ainda estando em um ponto de foco.</p>
-    !(https://github.com/assets/images/inicio.jpeg)
+    
+![inicio](https://github.com/user-attachments/assets/2587701d-adf6-412f-abde-ec8e15aec49b)
+
+
+
   </li>
   <li>
     <p>Cena final: Créditos</p>
     <p>Juntamos os créditos do jogo com a cena final, já que não era necessário dedicar uma tela para cada um. A tela congelada funciona como um epílogo, e os créditos concluem ela como o término do jogo.</p>
-
+    
+![creditos](https://github.com/user-attachments/assets/ddc1d018-98ed-4c0b-98ef-209e1d22c516)
 
   </li>
 </ul>
