@@ -1,7 +1,7 @@
 # ProjetoSP470-Doc
 Documentação e scripts do jogo
 <br>
-Link do projeto? [https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3R/view?usp=drive_link]
+Link do projeto [https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3R/view?usp=drive_link]
 <br>
 Vídeo Gameplay: [https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4k1/view?usp=drive_link]
 
