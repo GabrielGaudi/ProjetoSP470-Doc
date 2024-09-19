@@ -21,7 +21,7 @@ Vídeo Zipado: https://drive.google.com/file/d/1ywZtO90YlUF89x-_v-Qa4OpG1D4JFz5I
 <p>Ele estava em direção à Catedral, até que seu carro quebra na Avenida Paulista. No entanto, ao chegar na Avenida Paulista, percebeu que havia cometido um erro grave: ele havia esquecido seus talismãs, aqueles que normalmente usava para capturar e repelir espíritos malignos. A Avenida Paulista, que já era conhecida por sua energia vibrante, agora parecia estar imersa em uma aura pesada, quase sufocante. Espíritos malignos flutuavam pela rua, Aruã, agora mais cauteloso, começou a desviar deles, percebendo que sem seus talismãs, qualquer confronto direto poderia ser fatal.</p>
   <p>Ao se aproximar da catedral, outro desafio surge, um labirinto com mais fantasmas. Dentro desse labirinto, surge o espírito de Tarsila do Amaral, uma das maiores artistas que o Brasil já produziu. Diferente dos outros espíritos, Tarsila emanava uma luz suave e acolhedora. “Aruã”, ela chamou, sua voz era ao mesmo tempo distante e familiar, ela menciona uma dívida que tem com o pai de Aruã e, por isso, o ajudará. Tarsila lhe entregou uma máscara que ela mesma havia criado. Aruã aceitou o presente, agradecendo com um leve aceno de cabeça, então, ela o guia para o próximo passo da jornada, encontrar Monteiro Lobato na catedral.</p>
 <p>Foi na biblioteca da Catedral que Aruã encontrou o espírito de Monteiro Lobato, o lendário escritor brasileiro, estava lá, imerso em seus pensamentos. Quando Aruã se aproximou, o espírito ergueu os olhos e disse "São Paulo, Aruã, é um enigma em si, uma cidade onde o tempo se entrelaça em espirais". Ele, como Tarsila, menciona uma dívida e o pai de Aruã e depois explica porque todos estes fantasmas apareceram. O xamã, com mais conhecimento ainda, segue sua jornada dentro da Catedral, até que finalmente encontrou uma porta mística, emanando uma energia antiga. Ele pegou a chave, o convite e, lembrando-se das palavras de Tarsila, colocou a máscara que havia recebido.</p>
-<p>Seguindo seu caminho pela Catedral, Aruã entra em um lugar sobrenatural, como Monteiro Lobato mencionou e lá, encontra fantasmas ainda mais desafiadores. Ao usar a chave e o convite para passar por uma porta misteriosa, ele se encontra em um ambiente completamente diferente, cercado de fantasmas, onde o aniversário de 470 anos de São Paulo está sendo comemorado, com inúmeros fantasmas surpresos com sua chegada.</p>
+<p>Seguindo seu caminho pela Catedral, Aruã entra em um lugar sobrenatural, como Monteiro Lobato mencionou e lá, encontra fantasmas ainda mais desafiadores. Ao usar a chave e o convite para passar por uma porta misteriosa, ele se encontra em um ambiente completamente diferente e surreal, cercado de fantasmas, onde o aniversário de 470 anos de São Paulo está sendo comemorado, com inúmeros fantasmas surpresos com sua chegada.</p>
 
 <br>
 <h2>Personagens:</h2>
@@ -43,13 +43,13 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 ![imagem](https://github.com/user-attachments/assets/23c9131a-797a-43b1-b641-c193d85f410d)
 
 <ul>
-  <li><p>A cor dos fantasmas inimigos é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, porém ainda sendo bem distinta dele e do cenário. Dentro da catedral, eles possuem chifres, dando uma sensação de maior desafio e finalização e, por serem maiores, têm uma cor diferente, o cinza.</p></li>
+  <li><p>A cor dos fantasmas inimigos é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, porém ainda sendo bem distinta dele e do cenário. Dentro da catedral, eles possuem chifres, dando uma sensação de maior desafio e finalização e, por serem maiores, têm uma cor diferente, o cinza que combina com a cor da área final.</p></li>
   <li><p>Localização: os fantasmas estão separados em "grupos" que ocupam certa área, dentro desse grupo, eles aumentam de velocidade conforme o jogador avança, e a dificuldade dos fantasmas de cada "grupo" também aumenta, exceto no labirinto, já que o foco é no labirinto em si, não nos inimigos.</p></li>
-  <li><p>A dificuldade do jogo aumenta gradualmente(exceto no labirinto) isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos sua luz dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta sua hitbox, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
+  <li><p>A dificuldade do jogo aumenta gradualmente isso foi feito com a incrementação da quantidade de fantasmas e sua velocidade. Em uma rua, removemos as luzes dificultando a visualização deles. Depois, aumentamos seu tamanho, o que aumenta ser Collider, dificultando o desvio. Dentro da catedral, o ambiente apertado é o principal desafio que, junto do maior tamanho dos fantasmas, cria um obstáculo digno para ser o final do jogo.</p></li>
 </ul>
 
 <li><h4>Tarisila do Amaral e Monteiro Lobato</h4></li>
-<p>Os dois têm uma cor branca, representando segurança e os diferenciando muito do laranja dos fantasmas hostis.</p>
+<p>Os dois têm uma cor branca, trazendo a segurança, mostrando que são amigaveis e os diferenciando muito do laranja dos fantasmas hostis. Ambos se econtram no final de um labirinto e, após seu diálogo, entregam algo que ajuda Aruã a progredir.</p>
 
 ![Captura de tela 2024-09-19 114122](https://github.com/user-attachments/assets/36bfd91e-d3e9-4fe3-a77e-437d6e21afbe) 
 Tarsila no labirinto
@@ -62,30 +62,27 @@ Monteiro Lobato na catedral
 <h2>Mundo do Jogo</h2>
 <ol>
   <li><h4>Mapa</h4></li>
-  <p>O jogo se situa no centro de São Paulo, iniciando na Avenida Paulista e terminando na Catedral da Sé. Inicialmente, as ruas seriam similares ao mapa normal, porém decidimos simplificá-las, deixando um design linear repetitivo, onde o jogador apenas segue para a direita. Isso facilita o entendimento do trajeto, a criação do mapa e a repetitividade separa o jogo em seções, que foram usadar similarmente a fases, onde cada seção nova inclui um aumento de dificuldade.</p>
+  <p>O jogo se situa no centro de São Paulo, iniciando na Avenida Paulista e terminando na Catedral da Sé. Inicialmente, as ruas seriam similares ao mapa normal, porém decidimos simplificá-las, deixando um design linear repetitivo, onde o jogador apenas segue para a direita. Isso facilita o entendimento do trajeto e a criação do mapa. A repetitividade permite que o jogo seja separado em seções, que foram usadas similarmente a fases, onde cada seção nova inclui um aumento de dificuldade.</p>
   
 ![conceito do mapa](https://github.com/GabrielGaudi/ProjetoSP470-Doc/blob/main/mapaInicial.png)
 
 ![versão final](https://github.com/GabrielGaudi/ProjetoSP470-Doc/blob/main/mapaJogo.png)
 
-  
 <h5>Conceito de mapa inicial do jogo e o produto final</h5>
 <br>
   <li><h4>Cenário</h4></li>
-  <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, com todas as outras cores pouco iluminadas, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferecem variação, deixando o visual menos monótono. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas, que é relacionada à perseverança, motivando Aruã a continuar sua jornada nos dois pontos principais: o início e perto do final e a segurança das áres onde está presente.</p>
-  <p>Localizada no coração de São Paulo, a Catedral da Sé é um dos principais pontos da cidade e o marco final da jornada, onde Aruã irá finalizar sua missão. Dentro dela, o cinza é a cor predominante, mas desta vez, é uma cor bem clara. Isso diferencia ela de todas as outras regiões, já que a área não é baseada em nada real, porém ainda usa uma cor que encaixa como resto da paleta.</p>
+  <p>No caminho até a catedral, o cenário é majoritariamente escuro, cinza e preto, com todas as outras cores pouco iluminadas, fazendo os fantasmas se destacarem e criando uma atmosfera mais assustadora e de solidão, que se encaixa perfeitamente com as ruas que normalmente são bem movimentadas e agora estão sem nenhuma pessoa. Alguns prédios mais coloridos oferecem variação, deixando o visual menos monótono. As únicas áreas mais claras são o início do jogo e o entorno da catedral, sendo as únicas áreas seguras, e dentro do labirinto, onde os inimigos são bem mais simples e fáceis de desviar (já que o foco é o labirinto). A principal dessas cores é o verde-claro das plantas, que é relacionada à perseverança, motivando Aruã a continuar sua jornada nos dois pontos principais: o início e perto do final.</p>
+  <p>Localizada no coração de São Paulo, a Catedral da Sé é um dos principais pontos da cidade e o marco final da jornada, onde Aruã irá finalizar sua missão. Dentro dela, o cinza é a cor predominante, no ínicio escuro, porém ao se aproximar do fim, as salas são bem iluminadas. Isso diferencia essa área das outras, predominantemente escuras, porém ainda mantém a paleta de cores do jogo. A mudança mostra o quão longe Aruã já chegou, com a escuridão diminuindo e a esperança de conseguir alcançar o objetivo mais alta que nunca.</p>
 </ol>
 <br>
 <h2>Cenas:</h2>
 <ul>
-  <li><p>Separamos as cenas jogáveis entre a cidade e o interior da catedral. A cidade inteira, se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p></li>
+  <li><p>Separamos as cenas jogáveis entre a cidade e o interior da catedral. A cidade inteira, se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo. As partes estáticas no início e fim estão em outras cenas para facilitar a transição e o desenvolvimento delas, sem ter que teleportar a câmera.</p></li>
   <li>
     <p>Cena 1: Menu do jogo</p>
     <p>O menu do jogo tem a mesma atmosfera e cores utilizadas no resto do jogo. O foco é no título do jogo, encompassando Aruã, que está logo abaixo. No fundo, um céu escuro, como o resto do jogo mostra a aventura perigosa que começará, porém uma lua brilhando no centro comunica que ainda há esperança. Os botões para iniciar estão à frente da lanterna, dando espaço para Aruã no centro, mas ainda estando em um ponto de foco.</p>
     
 ![inicio](https://github.com/user-attachments/assets/2587701d-adf6-412f-abde-ec8e15aec49b)
-
-
 
   </li>
   <li>
