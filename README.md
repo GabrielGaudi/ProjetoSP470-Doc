@@ -1,9 +1,9 @@
 # ProjetoSP470-Doc
 Documentação e scripts do jogo
 <br>
-Link do projeto [https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3R/view?usp=drive_link]
+Link do projeto https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3R/view?usp=drive_link
 <br>
-Vídeo Gameplay: [https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4k1/view?usp=drive_link]
+Vídeo Gameplay: https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4k1/view?usp=drive_link
 
   <h2>Música</h2>
   <p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. E como na música fala sobre seres que não eram humanos, transparentes e que desceram do céu decidimos fazer os fantasmas como inimigo, pois é o que mais chega perto da descrição dele. O cenário todo apagado faz referência a música quando fala que teve um "blackout" na Paulista, ao ponto de nem poder ver o chão. </p></li>
@@ -83,17 +83,17 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
   <li><h4>Assets da Store:</h4></li>
   <ul>
     
-<li><bold>Aruã: </bold>[https://assetstore.unity.com/packages/3d/characters/toon-killers-survivors-12353]</li>
-    <li><bold>Fantasmas: </bold>[https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926]</li>
-    <li><bold>Cenários:</bold> [https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972]</li>
-    <li>[https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899]</li>
-    <li>[https://assetstore.unity.com/packages/3d/props/exterior/low-poly-brick-houses-131899]</li>
-    <li>[https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772]</li>
-    <li>[https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240]</li>
-    <li>[https://assetstore.unity.com/packages/3d/props/furniture/alchemy-lab-props-41758]</li>
-    <li>[https://assetstore.unity.com/packages/2d/textures-materials/ultimate-material-library-253722]</li>
-    <li>[https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240]</li>
-    <li><bold>Céu</bold>[https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014]</li>
+<li><bold>Aruã: </bold>https://assetstore.unity.com/packages/3d/characters/toon-killers-survivors-12353</li>
+    <li><bold>Fantasmas: </bold> https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926</li>
+    <li><bold>Cenários:</bold> https://assetstore.unity.com/packages/3d/environments/urban/low-poly-buildings-with-multiple-color-schemes-colorful-city-169972</li>
+    <li> https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899</li>
+    <li> https://assetstore.unity.com/packages/3d/props/exterior/low-poly-brick-houses-131899</li>
+    <li> https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772</li>
+    <li> https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240</li>
+    <li> https://assetstore.unity.com/packages/3d/props/furniture/alchemy-lab-props-41758</li>
+    <li> https://assetstore.unity.com/packages/2d/textures-materials/ultimate-material-library-253722</li>
+    <li> https://assetstore.unity.com/packages/3d/environments/dungeons/cathedral-and-cemetery-kit-29240</li>
+    <li><bold>Céu: </bold> https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014</li>
   </ul>
 
   <li>Assets no Unity:</li>
@@ -104,7 +104,9 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
   </ul>
 </ol>
 <h2>Scripts</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Script do Personagem
 
 Este script fornece controle para o personagem principal, incluindo movimento, animação e pulo. Utiliza o componente `CharacterController` para gerenciar o movimento e o pulo, e o componente `Animator` para ajustar as animações do personagem com base nas ações do jogador.
