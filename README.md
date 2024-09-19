@@ -45,7 +45,10 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 <ol>
   <li><h4>Mapa</h4></li>
   <p>O jogo se situa no centro de São Paulo, iniciando na Avenida Paulista e terminando na Catedral da Sé. Inicialmente, as ruas seriam similares ao mapa normal, porém decidimos simplificá-las, deixando um design linear repetitivo, onde o jogador apenas segue para a direita. Isso facilita o entendimento do trajeto, a criação do mapa e a repetitividade separa o jogo em seções, que foram usadar similarmente a fases, onde cada seção nova inclui um aumento de dificuldade.</p>
+![conceito do mapa](https://github.com/GabrielGaudi/ProjetoSP470-Doc/blob/main/mapaInicial.png)
+![versão final](https://github.com/GabrielGaudi/ProjetoSP470-Doc/blob/main/mapaJogo.png)
 
+  
 <h5>Conceito de mapa inicial do jogo e o produto final</h5>
 <br>
   <li><h4>Cenário</h4></li>
