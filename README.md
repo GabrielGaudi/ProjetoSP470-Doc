@@ -34,7 +34,7 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 
 ![fantasma1](https://github.com/user-attachments/assets/e29f140a-19d2-4817-95c1-d9e2d5810606)
 ![fantasma2](https://github.com/user-attachments/assets/1fe58a8b-87c8-46b2-b9e9-17667adcbb09)
-![fantasmaFInal](https://github.com/user-attachments/assets/9ff66ba7-0dba-42f4-870d-92ebc257148a)
+![imagem](https://github.com/user-attachments/assets/23c9131a-797a-43b1-b641-c193d85f410d)
 
 <ul>
   <li><p>A cor dos fantasmas inimigos é alaranjada e desbotada, se aproximando levemente do vermelho de Aruã, porém ainda sendo bem distinta dele e do cenário. Dentro da catedral, eles possuem chifres, dando uma sensação de maior desafio e finalização e, por serem maiores, têm uma cor diferente, o cinza.</p></li>
