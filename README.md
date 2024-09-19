@@ -104,8 +104,8 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
   </ul>
 </ol>
 <h2>Scripts</h2>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  # Script do Personagem
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Script do Personagem
 
 Este script fornece controle para o personagem principal, incluindo movimento, animação e pulo. Utiliza o componente `CharacterController` para gerenciar o movimento e o pulo, e o componente `Animator` para ajustar as animações do personagem com base nas ações do jogador.
 
