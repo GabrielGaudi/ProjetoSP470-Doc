@@ -2,7 +2,7 @@
 Documentação e scripts do jogo
 
   <h2>Música</h2>
-  <p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. </p></li>
+  <p>Sampa Midnight foi a música que nos inspiramos para fazer o jogo e também como música de fundo. A música fala sobre o cantor e mais dois amigos, eles sendo Bartolomeu e Ptolomeu, eles estavam bêbados e passeando pela Paulista quando de repente um breu tomou todo o lugar e surgiram três criaturas brilhantes gritando "não somos gente" com chifres e tridentes, com base nisso, nós fizemos um caminho da Paulista até a Catedral da Sé pois a catedral simboliza todo o início de São Paulo. E como na música fala sobre seres que não eram humanos, transparentes e que desceram do céu decidimos fazer os fantasmas como inimigo, pois é o que mais chega perto da descrição dele. O cenário todo apagado faz referência a música quando fala que teve um "blackout" na Paulista, ao ponto de nem poder ver o chão. </p></li>
  
 
 <h2>História:</h2>
