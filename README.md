@@ -45,7 +45,11 @@ Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usa
 <li><h4>Tarisila do Amaral e Monteiro Lobato</h4></li>
 <p>Os dois têm uma cor branca, representando segurança e os diferenciando muito do laranja dos fantasmas hostis.</p>
 
-![Captura de tela 2024-09-19 114122](https://github.com/user-attachments/assets/36bfd91e-d3e9-4fe3-a77e-437d6e21afbe) Tarsila no labirinto
+![Captura de tela 2024-09-19 114122](https://github.com/user-attachments/assets/36bfd91e-d3e9-4fe3-a77e-437d6e21afbe) 
+Tarsila no labirinto
+![WhatsApp Image 2024-09-19 at 11 44 25](https://github.com/user-attachments/assets/97f32915-6fd9-4776-981a-41929cee58ef) 
+Monteiro Lobato na catedral
+
 
 </ol>
 <br>
