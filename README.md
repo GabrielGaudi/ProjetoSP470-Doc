@@ -16,7 +16,7 @@ Vídeo Gameplay: https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4
 <p>Ele estava em direção à Catedral, até que seu carro quebra na Avenida Paulista. No entanto, ao chegar na Avenida Paulista, percebeu que havia cometido um erro grave: ele havia esquecido seus talismãs, aqueles que normalmente usava para capturar e repelir espíritos malignos. A Avenida Paulista, que já era conhecida por sua energia vibrante, agora parecia estar imersa em uma aura pesada, quase sufocante. Espíritos malignos flutuavam pela rua, Aruã, agora mais cauteloso, começou a desviar deles, percebendo que sem seus talismãs, qualquer confronto direto poderia ser fatal.</p>
   <p>Ao se aproximar da catedral, outro desafio surge, um labirinto com mais fantasmas. Dentro desse labirinto, surge o espírito de Tarsila do Amaral, uma das maiores artistas que o Brasil já produziu. Diferente dos outros espíritos, Tarsila emanava uma luz suave e acolhedora. “Aruã”, ela chamou, sua voz era ao mesmo tempo distante e familiar, ela menciona uma dívida que tem com o pai de Aruã e, por isso, o ajudará. Tarsila lhe entregou uma máscara que ela mesma havia criado. Aruã aceitou o presente, agradecendo com um leve aceno de cabeça, então, ela o guia para o próximo passo da jornada, encontrar Monteiro Lobato na catedral.</p>
 <p>Foi na biblioteca da Catedral que Aruã encontrou o espírito de Monteiro Lobato, o lendário escritor brasileiro, estava lá, imerso em seus pensamentos. Quando Aruã se aproximou, o espírito ergueu os olhos e disse "São Paulo, Aruã, é um enigma em si, uma cidade onde o tempo se entrelaça em espirais". Ele, como Tarsila, menciona uma dívida e o pai de Aruã e depois explica porque todos estes fantasmas apareceram. O xamã, com mais conhecimento ainda, segue sua jornada dentro da Catedral, até que finalmente encontrou uma porta mística, emanando uma energia antiga. Ele pegou a chave, o convite e, lembrando-se das palavras de Tarsila, colocou a máscara que havia recebido.</p>
-<p>Seguindo seu caminho pela Catedral, Aruã entra em um lugar sobrenatural, como Monteiro Lobato mencionou e lá, encontra fantasmas ainda mais desafiadores. Ao usar a chave e o convite para passar por uma porta misteriosa, ele se encontra em um ambiente completamente diferente, cercado de fantasmas, e o jogo acaba com um final ambíguo.</p>
+<p>Seguindo seu caminho pela Catedral, Aruã entra em um lugar sobrenatural, como Monteiro Lobato mencionou e lá, encontra fantasmas ainda mais desafiadores. Ao usar a chave e o convite para passar por uma porta misteriosa, ele se encontra em um ambiente completamente diferente, cercado de fantasmas, onde o aniversário de 470 anos de São Paulo está sendo comemorado, com inúmeros fantasmas surpresos com sua chegada.</p>
 
 <br>
 <h2>Personagens:</h2>
@@ -25,7 +25,8 @@ Vídeo Gameplay: https://drive.google.com/file/d/188dlEEGq4BwLEH1W2QE5B-bob-bGa4
 Aruã é um xamã experiente, conhecido popularmente como um caçador de fantasmas. Ele tem 23 anos de idade, com uma estatura média e um físico ágil. Sua pele é branca, e ele possui cabelos ruivos, em um corte mullet.
 Aruã veste roupas simples, funcionais, geralmente um casaco vermelho vinho, uma calça de couro preta e uma camisa preta, utilizando também botas de couro. Ele carrega consigo uma lanterna.
 Aruã nasceu em uma família de classe média em São Paulo, Aruã sempre se sentiu deslocado na vida urbana. Aos 18 anos, durante uma viagem para o interior da Amazônia, ele se envolveu em uma situação perigosa e foi salvo por uma comunidade indígena. Lá, conheceu um xamã sábio que percebeu o potencial espiritual de Aruã. Fascinado e intrigado pelo conhecimento ancestral, ele resolveu ficar e aprender as artes xamânicas.
-Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usar o que aprendeu para ajudar as pessoas a encontrar a paz, tanto no mundo espiritual quanto no mundo físico.
+Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usar o que aprendeu para ajudar as pessoas a encontrar a paz, tanto no mundo espiritual quanto no mundo físico.<br>
+Vermelho do cabelo de Aruã `#d86820`
 
 ![Captura de tela 2024-09-17 111410](https://github.com/user-attachments/assets/13294dd4-49eb-4c1c-b375-3f364720c3bb)
 <p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais quente e saturado</p>
@@ -71,9 +72,22 @@ Monteiro Lobato na catedral
 </ol>
 <br>
 <h2>Cenas:</h2>
-  <p>Separamos as cenas entre a cidade e o interior da catedral. A cidade inteira, se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p>
+<ul>
+  <li><p>Separamos as cenas jogáveis entre a cidade e o interior da catedral. A cidade inteira, se encontra em apenas uma cena, permitindo que o jogador vá o quão rápido ele queira, dando fluidez ao jogo. A transição de cena permite que a catedral seja menor por fora, o que facilitou sua criação no mapa e, sendo a área final, fornece um suspense e a separa do resto do jogo.</p></li>
+  <li>
+    <p>Cena 1: Menu do jogo</p>
+    <p>O menu do jogo tem a mesma atmosfera e cores utilizadas no resto do jogo. O foco é no título do jogo, encompassando Aruã, que está logo abaixo. No fundo, um céu escuro, como o resto do jogo mostra a aventura perigosa que começará, porém uma lua brilhando no centro comunica que ainda há esperança. Os botões para iniciar estão à frente da lanterna, dando espaço para Aruã no centro, mas ainda estando em um ponto de foco.</p>
+    !(https://github.com/assets/images/inicio.jpeg)
+  </li>
+  <li>
+    <p>Cena final: Créditos</p>
+    <p>Juntamos os créditos do jogo com a cena final, já que não era necessário dedicar uma tela para cada um. A tela congelada funciona como um epílogo, e os créditos concluem ela como o término do jogo.</p>
 
+
+  </li>
+</ul>
 <h2>Jogos inspirados:</h2>
+
 <p>Ao decidir que os fantasmas seriam os principais inimigos, pensamos no jogo "Spooky's Jumpscare Mansion", onde, apesar de não haverem muitos fantasmas, a personagem principal e boa parte do cenário eram ótimos exemplos do design simplificado que buscávamos.</p>
 <p>Os cenários de "Little Nightmares" e "Resident Evil" também foram considerados durante o desenvolvimento, também por serem mais simples, porém ao mesmo tempo construir uma atmosfera de terror.</p>
 
