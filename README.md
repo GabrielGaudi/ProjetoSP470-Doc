@@ -31,7 +31,7 @@ Aruã é um xamã experiente, conhecido popularmente como um caçador de fantasm
 Aruã veste roupas simples, funcionais, geralmente um casaco vermelho vinho, uma calça de couro preta e uma camisa preta, utilizando também botas de couro. Ele carrega consigo uma lanterna.
 Aruã nasceu em uma família de classe média em São Paulo, Aruã sempre se sentiu deslocado na vida urbana. Aos 18 anos, durante uma viagem para o interior da Amazônia, ele se envolveu em uma situação perigosa e foi salvo por uma comunidade indígena. Lá, conheceu um xamã sábio que percebeu o potencial espiritual de Aruã. Fascinado e intrigado pelo conhecimento ancestral, ele resolveu ficar e aprender as artes xamânicas.
 Após anos de aprendizado e prática, Aruã volta à cidade com um objetivo: usar o que aprendeu para ajudar as pessoas a encontrar a paz, tanto no mundo espiritual quanto no mundo físico.<br>
-Vermelho do cabelo de Aruã `rgb(216,104,32)`
+
 
 ![Captura de tela 2024-09-17 111410](https://github.com/user-attachments/assets/13294dd4-49eb-4c1c-b375-3f364720c3bb)
 <p>A cor principal de Aruã é o vermelho, que está em forte contraste com o ambiente e até os fantasmas, já que seu laranja é bem fraco. Isso também diferencia eles por Aruã ter uma cor considerada mais "viva", pois seu vermelho é mais forte e saturado.</p>
@@ -100,6 +100,14 @@ Monteiro Lobato na catedral
 
 <p>Ao decidir que os fantasmas seriam os principais inimigos, pensamos no jogo "Spooky's Jumpscare Mansion", onde, apesar de não haverem muitos fantasmas, a personagem principal e boa parte do cenário eram ótimos exemplos do design simplificado que buscávamos.</p>
 <p>Os cenários de "Little Nightmares" e "Resident Evil" também foram considerados durante o desenvolvimento, também por serem mais simples, porém ao mesmo tempo construir uma atmosfera de terror.</p>
+
+<h2>Cores</h2>
+<p>Como a ideia por trás das cores do jogo já foi explicada anteriormente, aqui está uma lista das principais cores do jogo.</p>
+<ul>
+  <li><h5>Personagens:</h5></li>
+    <ul><p>Cabelo e roupas de Aruã na luz: </p></ul>
+</ul>
+<br>
 
 <h2>Elementos do Unity</h2>
 <ol>
