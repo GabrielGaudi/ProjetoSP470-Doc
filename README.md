@@ -105,7 +105,41 @@ Monteiro Lobato na catedral
 <p>Como a ideia por trás das cores do jogo já foi explicada anteriormente, aqui está uma lista das principais cores do jogo.</p>
 <ul>
   <li><h5>Personagens:</h5></li>
-    <ul><p>Cabelo e roupas de Aruã na luz: </p></ul>
+    <ul>
+      <li><p>Laranja/vermelho de Aruã (#e17021) e (#762915); comparado às cores desbotadas dos fantasmas (#cf744a) e (#e9986e):</p></li>
+
+![laranja](https://github.com/user-attachments/assets/e20d4834-4c14-4337-b99c-0282b598c95b)![vermelho](https://github.com/user-attachments/assets/1379934f-5e29-47bc-970e-99e8d482b8d3)![f1](https://github.com/user-attachments/assets/34568212-384b-4c0c-bcfc-5a97356c05b4)![f2](https://github.com/user-attachments/assets/b34f0350-ad8a-4620-a681-0648f0dd2b5a)
+
+  <li><p>Cor de Tarsila, Monteiro a dos fantasmas na tela final (#ffffff):</p></li>
+  
+  ![bracno](https://github.com/user-attachments/assets/e2c770af-5497-481c-9e46-295f1b31c5ca)
+  
+  <li><p>Cores dos fantasma dentro da Catedral da Sé (#d6e0ef) e (#918474):</p></li>
+
+![c1](https://github.com/user-attachments/assets/160124d4-b063-4aaa-a50d-996adb24bd3e)![c2](https://github.com/user-attachments/assets/611604e5-e8d8-44fc-8242-787fad34f769)
+
+</ul>
+
+<li><h5>Cenários:</h5></li>
+<ul>
+<li><p>Cor da névoa (38383F):</p></li>
+
+![nevoa](https://github.com/user-attachments/assets/b33373b3-f4b0-4be5-9b9c-7b34c96150bc)
+
+<li><p>Cor dos prédios de fundo, na escuridão da rua: </p></li>
+
+![p1](https://github.com/user-attachments/assets/1a7394a9-f191-4bed-bffb-c66a24cb3259)![p2](https://github.com/user-attachments/assets/506c346d-5997-4249-b225-40ac75998d3d)![p3](https://github.com/user-attachments/assets/94beff3b-d4f7-42dc-a8f6-0541b6db2520)
+
+#010101--------#181b25-------#2e3147
+<li><p>Cor da plantas no início e no labirinto (#6a9734) e (#608137):</p></li>
+
+![verde1](https://github.com/user-attachments/assets/51a4bc85-df94-4826-8ebf-52d23d9f6d99)![verde2](https://github.com/user-attachments/assets/31b5dc0f-2280-405c-9da3-2c961253c2dc)
+
+<li><p>Parede da Catedral escura(#5b6571) e iluminada(#737663)</p></li>
+
+![catedral1](https://github.com/user-attachments/assets/28fd73f5-dfff-4e04-9f37-4535b44b9b3f)![catedral2](https://github.com/user-attachments/assets/c65ad13e-2931-4bc9-9904-8c9cd25b932c)
+
+</ul>
 </ul>
 <br>
 
