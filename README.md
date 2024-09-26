@@ -6,6 +6,7 @@ Link do projeto https://drive.google.com/file/d/1clRvQi54irFBVTYrdiXcx02tD7ybph3
 Vídeo Gameplay: https://drive.google.com/file/d/1lTuX6Use5SgPLZF9ild5D9OW-S9L7M_X/view?usp=drive_link
 <br>
 Vídeo Zipado: https://drive.google.com/file/d/1ywZtO90YlUF89x-_v-Qa4OpG1D4JFz5I/view?usp=drive_link
+Banner: https://www.canva.com/design/DAGR3k_hYKs/n8xxGOTM4pTyNXOM21uyUw/edit?utm_content=DAGR3k_hYKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h2>Chegando na ideia do jogo:</h2>
 <p>Começamos pensando em como juntar os passado e presente da cidade em um único ambiente, e logo, pensamos nos fantasmas, seres do passado que continuam existindo até hoje. Assim, mostraríamos a história rica da cidade, em um cenário moderno. Para decidir o cenário, pesquisamos pontos marcantes da cidade que eram importantes séculos atrás, e outros que são importantes atualmente; chegando na Catedral da Sé e na Avenida Paulista, pois são lugares bem conhecidos e próximos. Com os NPCs e cenário definidos, procuramos pelo nosso protagonista na Asset Store do Unity e encontramos um personagem que possuia uma expressão séria e determinada que encaixava no conceito do jogo.</p>
